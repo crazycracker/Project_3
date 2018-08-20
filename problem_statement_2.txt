@@ -1,0 +1,1 @@
+from feature importances we can conclude that age, fnlwgt and hours_per_week have score greater than 0.1

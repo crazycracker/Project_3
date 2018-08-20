@@ -1,0 +1,6 @@
+Decision Tree Classifier, XGBClassifier, Random Forest Classifier all the algorithms would perform best.
+Decision Tree Classifier was giving an accuracy of 71%
+Random Forest Classifier was giving an accuracy of 73%
+XGBClassifier was giving an accuracy of 85%
+
+I have increased the accuracy to 87% of XGBClassifier by tuning the hyperparameters using RandomizedSearchCV
